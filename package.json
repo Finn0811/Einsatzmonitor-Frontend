@@ -45,7 +45,7 @@
     "@types/knockout": "^3.4.70",
     "@types/reconnectingwebsocket": "^1.0.4",
     "auto-launch": "^5.0.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "crypto-js": "^4.0.0",
     "electron-log": "^4.3.0",
     "electron-settings": "^4.0.2",
